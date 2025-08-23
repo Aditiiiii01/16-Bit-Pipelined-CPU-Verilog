@@ -36,7 +36,7 @@ docs/ # Documentation: pipeline diagrams, screenshots, and design notes
 5. Open waveform viewer to inspect pipeline stages, forwarding behavior, and register updates.
 
 ## Pipeline Diagram
-A pipeline diagram illustrating the 5 stages (IF → ID → EX → MEM → WB) is included in docs/.
+A pipeline diagram illustrating the 5 stages (IF → ID → EX → MEM → WB): 16bit_pipeline_cpu_with_hazard_detection&forwarding.png
 - IF: Instruction Fetch
 - ID: Instruction Decode & Register Read
 - EX: Execute / ALU operations
