@@ -52,3 +52,6 @@ Aditi Vishal Paunikar
 - Ensure reset is asserted at the start for proper initialization.
 - Modify instruction memory in the testbench to test different hazard and branch scenarios.
 - Use waveforms and console outputs together for full verification coverage.
+- **Testing**: Run the testbenches in tb/ to verify functionality.
+- **Known Issues**: No known issues at this time.
+- **Future Work**: Plan to implement support for additional instructions and optimizations.
