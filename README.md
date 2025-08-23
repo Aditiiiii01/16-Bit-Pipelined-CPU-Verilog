@@ -36,7 +36,7 @@ docs/ # Documentation: pipeline diagrams, screenshots, and design notes
 5. Open waveform viewer to inspect pipeline stages, forwarding behavior, and register updates.
 
 ## Pipeline Diagram
-A pipeline diagram illustrating the 5 stages (IF → ID → EX → MEM → WB): 16bit_pipeline_cpu_with_hazard_detection&forwarding.png
+A pipeline diagram illustrating the 5 stages (IF → ID → EX → MEM → WB): https://github.com/Aditiiiii01/16-Bit-Pipelined-CPU-Verilog/tree/main
 - IF: Instruction Fetch
 - ID: Instruction Decode & Register Read
 - EX: Execute / ALU operations
