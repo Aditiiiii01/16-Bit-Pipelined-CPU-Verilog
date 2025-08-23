@@ -4,9 +4,10 @@
 This project implements a 16-bit pipelined CPU (5-stage) in Verilog with hazard detection and forwarding, IF/ID, ID/EX, EX/MEM, MEM/WB pipeline registers, ALU, register file, and control unit. It supports arithmetic, logical, load, store, and branch instructions, demonstrating RTL design, pipeline hazards, forwarding, and verification using Verilog testbenches.
 
 ## Repository Structure
-rtl/      # All Verilog modules (ALU, control unit, registers, pipeline registers, CPU top module)
-tb/       # Testbenches for CPU and submodules
-docs/     # Pipeline diagrams, screenshots, or project documentation
+
+rtl/ # Verilog modules: ALU, control unit, registers, pipeline stages, CPU top module
+tb/ # Testbenches for CPU and submodules
+docs/ # Documentation: pipeline diagrams, screenshots, and design notes
 
 ## Simulation Instructions
 ### Using ModelSim
