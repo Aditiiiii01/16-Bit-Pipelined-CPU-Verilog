@@ -18,7 +18,7 @@ This project implements a **16-bit 5-stage pipelined CPU** in Verilog, designed 
 
 ## Architecture Diagram
 
-![CPU Architecture Diagram](https://shashisuman.files.wordpress.com/2019/05/16bit_mips_pipelined_processor.png)
+![CPU Architecture Diagram](https://shashisuman.wordpress.com/wp-content/uploads/2020/06/7d003-datapath2b252812529.jpg)
 
 *Source: [Shashi Suman's Blog](https://shashisuman.wordpress.com/2019/05/11/verilog-code-for-16-bit-mips-pipelined-processor/)*
 
