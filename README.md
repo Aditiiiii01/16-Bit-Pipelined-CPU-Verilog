@@ -61,6 +61,13 @@ This project implements a **16-bit 5-stage pipelined CPU** in Verilog, designed 
 
 Hazard detection and forwarding ensure smooth pipeline operation without data conflicts.
 
+## Author
+
+Aditi Vishal Paunikar
+
+Email: aditivpaunikar@gmail.com
+
+LinkedIn: linkedin.com/in/aditi-vishal-paunikar-9ba789259
 
 ## Acknowledgments
 
